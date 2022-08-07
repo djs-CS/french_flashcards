@@ -1,1 +1,1 @@
-# french_flashcards
+# French Flashcard Project
